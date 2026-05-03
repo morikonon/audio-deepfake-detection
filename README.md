@@ -15,8 +15,8 @@ The goal is to build a **reproducible research pipeline** and analyze the streng
 
 Current stage:
 - [x] Project structure initialized  
-- [ ] Dataset selection and preprocessing  
-- [ ] MFCC feature extraction pipeline  
+- [x] Dataset selection and preprocessing  
+- [x] MFCC feature extraction pipeline  
 - [ ] Classical ML baselines (SVM, Random Forest, XGBoost)  
 - [ ] Deep learning models (CNN / LSTM / Transformer)  
 - [ ] Evaluation and comparison  
