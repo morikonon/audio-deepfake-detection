@@ -9,20 +9,6 @@ The goal is to build a **reproducible research pipeline** and analyze the streng
 
 ---
 
-## 🚀 Project Status
-
-⚠️ Work in progress
-
-Current stage:
-- [x] Project structure initialized  
-- [x] Dataset selection and preprocessing  
-- [x] MFCC feature extraction pipeline  
-- [ ] Classical ML baselines (SVM, Random Forest, XGBoost)  
-- [ ] Deep learning models (CNN / LSTM / Transformer)  
-- [ ] Evaluation and comparison  
-
----
-
 ## 🧠 Research Objective
 
 - Compare **MFCC + classical ML** vs **deep neural networks**
